@@ -1,0 +1,32 @@
+{
+	"description": "项目配置文件",
+	"setting": {
+		"urlCheck": true,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true
+	},
+	"cloudfunctionRoot": "cloudfunction/",
+	"compileType": "miniprogram",
+	"libVersion": "2.6.1",
+	"appid": "wx82f053448717162e",
+	"projectname": "weather",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"cloudfunctionTemplateRoot": "cloudfunctionTemplate",
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": -1,
+			"list": []
+		}
+	}
+}
